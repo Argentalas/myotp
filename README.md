@@ -1,2 +1,2 @@
 # myotp
-command line google authenticator
+CLI 2FA tool like google authenticator only command line.
