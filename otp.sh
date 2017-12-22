@@ -19,7 +19,7 @@ fi
 
 if [ ! -f ~/.otp ]; then
 	printf "example\tg4g3xan4qpi4ph57" >> ~/.otp
-	chmod 400 ~/.otp
+	chmod 600 ~/.otp
 	echo "
 Hello!
 Keystore file created as ~/.otp
